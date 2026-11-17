@@ -32,7 +32,9 @@ Atualmente focada em desenvolvimento back-end, gerência de qualidade de softwar
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-stats-extended.vercel.app/api?username=danielarodrigues2&theme=light_github" alt="Anurag's GitHub stats" />
-  </picture>
+</picture>  
+
+---
 
 <picture>
     <source
@@ -40,4 +42,4 @@ Atualmente focada em desenvolvimento back-end, gerência de qualidade de softwar
       media="(prefers-color-scheme: dark)"
     />
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=danielarodrigues2&langs_count=4&theme=light_github" alt="Top Langs" />
-  </picture>
+</picture>
