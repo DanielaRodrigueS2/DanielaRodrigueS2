@@ -26,6 +26,18 @@ Atualmente focada em desenvolvimento back-end, gerência de qualidade de softwar
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielaRodrigueS2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=danielarodrigues2&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=danielarodrigues2&theme=light_github" alt="Anurag's GitHub stats" />
+  </picture>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DanielaRodrigueS2&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=danielarodrigues2&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=danielarodrigues2&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
